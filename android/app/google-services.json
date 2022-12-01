@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044074481583",
+    "firebase_url": "https://ssis-android-counselling-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ssis-android-counselling-app",
+    "storage_bucket": "ssis-android-counselling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044074481583:android:c4663c39491724f262115a",
+        "android_client_info": {
+          "package_name": "com.example.councelling_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044074481583-lgsq1vhpaq8paags6eb7tqmhm38hb41l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHCk3h7DIr2TFNJMgPUGl7xU5YxMRvHW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044074481583-lgsq1vhpaq8paags6eb7tqmhm38hb41l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
